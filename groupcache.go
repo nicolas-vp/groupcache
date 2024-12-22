@@ -32,9 +32,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	pb "github.com/mailgun/groupcache/v2/groupcachepb"
-	"github.com/mailgun/groupcache/v2/lru"
-	"github.com/mailgun/groupcache/v2/singleflight"
+	pb "github.com/nicolas-vp/groupcache/groupcachepb"
+	"github.com/nicolas-vp/groupcache/lru"
+	"github.com/nicolas-vp/groupcache/singleflight"
 	"github.com/sirupsen/logrus"
 )
 
