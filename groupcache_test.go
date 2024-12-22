@@ -30,8 +30,8 @@ import (
 	"unsafe"
 
 	"github.com/golang/protobuf/proto"
-	pb "github.com/mailgun/groupcache/v2/groupcachepb"
-	"github.com/mailgun/groupcache/v2/testpb"
+	pb "github.com/nicolas-vp/groupcache/groupcachepb"
+	"github.com/nicolas-vp/groupcache/testpb"
 	"github.com/stretchr/testify/assert"
 )
 
